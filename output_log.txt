@@ -1,0 +1,84 @@
+Mono path[0] = 'C:/Users/itsaw/Desktop/WeeTanks_Launcher_official/WeeTanksOfficial/Wee Tanks_Data/Managed'
+Mono config path = 'C:/Users/itsaw/Desktop/WeeTanks_Launcher_official/WeeTanksOfficial/MonoBleedingEdge/etc'
+Initialize engine version: 2020.2.0b14 (dc0b50340a64)
+[Subsystems] Discovering subsystems at path C:/Users/itsaw/Desktop/WeeTanks_Launcher_official/WeeTanksOfficial/Wee Tanks_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x98e4)
+    Vendor:   
+    VRAM:     3527 MB
+    Driver:   27.20.1032.2
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.449 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.383000 ms
+Save settings file found!!C:/Users/itsaw/AppData/LocalLow/Studio Kit/Wee Tanks/tank_settings.tnk
+
+C:/Users/itsaw/AppData/LocalLow/Studio Kit/Wee Tanks
+
+Settings-Data loaded from save file
+
+Current month = 2 and currenty day = 16
+
+Loading.
+
+Save file found!!C:/Users/itsaw/AppData/LocalLow/Studio Kit/Wee Tanks/tank_progress.tnk
+
+DONE.
+
+Save file found!!C:/Users/itsaw/AppData/LocalLow/Studio Kit/Wee Tanks/tank_progress.tnk
+
+DATA LOADED WITH KILLS AT 211
+
+Save file found!!C:/Users/itsaw/AppData/LocalLow/Studio Kit/Wee Tanks/tank_progress.tnk
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+CALCULATED MISSION = 40
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+Controller found:vjoy - virtual joystick
+
+buh bye
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3dac -> priority: 1 
