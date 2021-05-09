@@ -24,6 +24,9 @@ Peek inside the Scene's Hierarchy, manipulate, search and see GameObjects, searc
 
 - [ ] Mod Options menu in Settings tab of Main Menu
 - [ ] Change Wee Tanks' version text to show Mod Tanks version
+- [ ] Many QoL adjustments
+- [ ] Many bug fixes
+- [ ] Discord Rich Prescence
 
 # :tada: Happy modding! :tada:
 
