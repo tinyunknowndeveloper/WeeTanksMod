@@ -1,0 +1,7 @@
+.git
+loader.cs
+changelog.txt
+dist_readme.md
+output_log.txt
+readmeold.md
+/BepInEx/plugins/UnityExplorer/Logs/*
