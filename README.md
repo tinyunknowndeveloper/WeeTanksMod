@@ -6,7 +6,7 @@
 
 ## Malicious Code in Plugins
 
-Plugins can contain malicious code! Before you install a plugin, make sure you are getting your plugins from a trusted source or verify the code beforehand using your favourite .NET decompilation tool such as [ILSpy](https://github.com/icsharpcode/ILSpy) (recommended), [DNSpy](https://github.com/dnSpy/dnSpy), and the like.
+Plugins can contain malicious code! Before you install a plugin, make sure you are getting your plugins from a trusted source or verify the code beforehand using your favourite .NET decompilation tool such as [ILSpy \(recommended\)](https://github.com/icsharpcode/ILSpy), [DNSpy](https://github.com/dnSpy/dnSpy), and the like.
 
 ## Pre-installed Plugins
 
