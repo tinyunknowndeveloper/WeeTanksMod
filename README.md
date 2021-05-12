@@ -27,6 +27,8 @@ Peek inside the Scene's Hierarchy, manipulate, search and see GameObjects, searc
 - [ ] Many QoL adjustments
 - [ ] Many bug fixes
 - [ ] Discord Rich Prescence
+- [ ] Teleport to level
+- [ ] Green-screen toggle on-off
 
 # :tada: Happy modding! :tada:
 
