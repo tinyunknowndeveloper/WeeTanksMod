@@ -2,7 +2,7 @@
 
 ### No, seriously. Read it.
 
-#### Version 0.1.0
+#### Version 0.1.1
 
 ## Malicious Code in Plugins
 
