@@ -33,3 +33,5 @@ Peek inside the Scene's Hierarchy, manipulate, search and see GameObjects, searc
 # :tada: Happy modding! :tada:
 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+
+## Discord: https://discord.gg/HpeEAxpRt5
