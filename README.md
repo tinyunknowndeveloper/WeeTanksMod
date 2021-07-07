@@ -34,4 +34,4 @@ Peek inside the Scene's Hierarchy, manipulate, search and see GameObjects, searc
 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
-<iframe src="https://discord.com/widget?id=849209534336860190&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+# Discord: discord.gg/HpeEAxpRt5
